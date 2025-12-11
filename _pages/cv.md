@@ -5,7 +5,7 @@ permalink: /cv/
 ---
 ## Curriculum Vitae
 
-[Download my CV]({{ "/assets/CV.pdf" | relative_url }}) in PDF format.
+[Download my Resume]({{ "/assets/pdfs/Liam Bayne - Resume.pdf" | relative_url }}) in PDF format.
 
 
 **Email:** [lrb88@cornell.edu](mailto:lrb88@cornell.edu) | | | **Phone:** (607) 795-6651
