@@ -13,8 +13,8 @@ We treated the Sphero as a coupled electromechanical system: a DC motor drives t
 
 The project combined physical dissection, parameter estimation, mathematical modeling, and simulation to understand how a simple voltage command on the motor translates into real-world displacement of the robot.
 
-You can read the full report here:  
-👉 **[Download the full PDF report]({{ '/assets/pdfs/MAE3260-Spherologists-Final-Groupwork-Report.pdf' | relative_url }})**
+Read the full report here:  
+**[Download the full PDF report]({{ '/assets/pdfs/MAE3260 Spherologists Final Groupwork Report.pdf' | relative_url }})**
 
 
 ---
