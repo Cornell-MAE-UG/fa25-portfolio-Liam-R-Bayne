@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Sphero Bot System Dynamics Analysis 2
+title: Sphero Bot System Dynamics Analysis
 description: MAE 3260 final group project analyzing the dynamics, ODE modeling, transfer functions, and battery modeling of the Sphero Bot
 technologies: [MATLAB, System Dynamics, Control Theory]
 image: /assets/images/Sphero.jpg
