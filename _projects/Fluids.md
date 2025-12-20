@@ -13,9 +13,10 @@ For our final project in **MAE 3230: Fluid Mechanics**, my group dissected and a
 
 The project combined physical dissection, research, and mathematical modeling.
 
-Watch out full video here:  
-**https://youtu.be/kFJW_DP0QBg?si=6RnbbCW4YGz44xHH**
+[**Watch the full video on YouTube**](https://youtu.be/kFJW_DP0QBg?si=6RnbbCW4YGz44xHH)
 
+
+---
 
 
 ## My contributions
@@ -35,6 +36,8 @@ Below is a summarized list of my contributions"
 Below is an assortment of images from our dissection:
 
 <img src="{{ 'assets/images/5b.jpg' | relative_url }}" width="100%">
+
 <img src="{{ 'assets/images/3c.jpg' | relative_url }}" width="100%">
+
 <img src="{{ 'assets/images/4b.jpg' | relative_url }}" width="100%">
 
