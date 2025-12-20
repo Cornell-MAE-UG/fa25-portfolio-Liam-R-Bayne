@@ -22,7 +22,7 @@ The project combined physical dissection, research, and mathematical modeling.
 ## My contributions
 
 The majority of the project involved full collaboration between all members, but particular research and analysis topics were split up. 
-Below is a summarized list of my contributions"
+Below is a summarized list of my contributions:
 
 - Physical dissection
 - Project organization
