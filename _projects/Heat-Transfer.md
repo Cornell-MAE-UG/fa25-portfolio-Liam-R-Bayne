@@ -21,6 +21,4 @@ In this problem, I learned how to analyze a PV panel’s heat transfer behavior.
 
 You can download the full assignment here:
 
-[Download Problem Set 5 PDF](../assets/pdf/3240-problem.pdf)
-
-<embed src="../assets/pdf/problem-set-5.pdf" type="application/pdf" width="100%" height="800px" />
+**[Download Here]({{ '/assets/pdfs/3240-problem.pdf' | relative_url }})**
