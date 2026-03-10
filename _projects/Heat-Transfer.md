@@ -21,5 +21,4 @@ The most interesting problem was #1, in which I learned how to analyze a PV pane
 
 You can download the full assignment here:
 
-**[Download Here]({{ '/assets/pdfs/3240-Assignment.pdf' | relative_url }})**
-[Download Here]({{ "/assets/pdfs/3240-problem.pdf" | relative_url }}) in PDF format.
+[Download Here]({{ "/assets/pdfs/3240-Assignment.pdf" | relative_url }}) in PDF format.
