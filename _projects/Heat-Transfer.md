@@ -6,6 +6,7 @@ img:
 importance: 1
 category: coursework
 permalink: /projects/heat-transfer/
+image: /assets/images/3240-PV.png
 ---
 
 ## Overview
